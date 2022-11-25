@@ -2,6 +2,8 @@ This is the game linear domination. This is a two player game where players will
 
 The input file is of the format
 
+-----------------
+
 N K
 
 x1 y1 x2 y2
@@ -10,6 +12,8 @@ x1 y1 x2 y2
 ...
 
 x1 y1 x2 y2
+
+-----------------
 
 N specifies the size of the gameboard (N X N).
 
